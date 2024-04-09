@@ -12,6 +12,7 @@
 
 #import statements
 from art import logo
+from clear import clear
 import random
 
 #constants
